@@ -690,6 +690,7 @@
     align-items: center;
     justify-content: center;
     fill: transparent;
+    margin-right: 5px;
 }
 
 .modal-form-checkbox:checked + .modal-form-checkbox-label .modal-form-checkbox-label-span {
