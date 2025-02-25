@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-Zadanie Domowe Nr. 2 - Ustawienie CSS dla strony.
+# goit-markup-hw-05
+Homework nr. 5 - Forms and Arrays
